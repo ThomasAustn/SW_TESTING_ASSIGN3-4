@@ -1,0 +1,9 @@
+SETUP AND INSTRUCTIONS****
+Steps for setup include:
+
+1.	Find reliable internet connection
+2.	Go to the link: http://pluto.cse.msstate.edu/~tb1843/SW_testin_A3.php
+3.	Once you have reached the home page of the interface, proceed to input information.
+4.	Submit all input for calculations.
+
+The web interface is user-friendly.
